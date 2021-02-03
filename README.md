@@ -1,0 +1,1 @@
+# wss-s2.rada
